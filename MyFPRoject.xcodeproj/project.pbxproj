@@ -16,6 +16,7 @@
 		DE823C6C2822F84100D66E37 /* MyFPRojectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE823C6B2822F84100D66E37 /* MyFPRojectTests.swift */; };
 		DE823C762822F84100D66E37 /* MyFPRojectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE823C752822F84100D66E37 /* MyFPRojectUITests.swift */; };
 		DE823C782822F84100D66E37 /* MyFPRojectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE823C772822F84100D66E37 /* MyFPRojectUITestsLaunchTests.swift */; };
+		DE823C852822F86500D66E37 /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE823C842822F86500D66E37 /* AddViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DE823C712822F84100D66E37 /* MyFPRojectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFPRojectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE823C752822F84100D66E37 /* MyFPRojectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFPRojectUITests.swift; sourceTree = "<group>"; };
 		DE823C772822F84100D66E37 /* MyFPRojectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFPRojectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DE823C842822F86500D66E37 /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				DE823C542822F83E00D66E37 /* AppDelegate.swift */,
 				DE823C562822F83E00D66E37 /* SceneDelegate.swift */,
 				DE823C582822F83E00D66E37 /* ViewController.swift */,
+				DE823C842822F86500D66E37 /* AddViewController.swift */,
 				DE823C5A2822F83E00D66E37 /* Main.storyboard */,
 				DE823C5D2822F84000D66E37 /* Assets.xcassets */,
 				DE823C5F2822F84000D66E37 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				DE823C592822F83E00D66E37 /* ViewController.swift in Sources */,
 				DE823C552822F83E00D66E37 /* AppDelegate.swift in Sources */,
+				DE823C852822F86500D66E37 /* AddViewController.swift in Sources */,
 				DE823C572822F83E00D66E37 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
